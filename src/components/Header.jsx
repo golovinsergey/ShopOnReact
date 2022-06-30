@@ -8,7 +8,11 @@ function Header() {
                     </a>
                     <ul id='nav-mobile' className='right hide-on-med-and-down'>
                         <li>
-                            <a href='https://golovinsergey.github.io/ShopOnReact'>
+                            <a
+                                href='https://golovinsergey.github.io/ShopOnReact'
+                                rel="'noreferrer"
+                                targnet='_blak'
+                            >
                                 Repo
                             </a>
                         </li>
